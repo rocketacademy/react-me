@@ -32,7 +32,7 @@ To build your own introduction website with this repository, you will only need 
 Relevant variables in `src/constants/index.ts`
 
 Variable | Description
-:---: | :---
+:--- | :---
 `appName` | The name of your introduction website that will be shown as your website title (on tabs).
 `name` | Your display name.
 `greeting` | The header of your introduction.
