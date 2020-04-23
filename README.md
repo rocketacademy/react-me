@@ -25,7 +25,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Customise and build your own introduction website using this repository.
+## Relevant screenshots
+
+### Overview
+![Overview](screenshots/overview.png)
+
+## Customise and build your own introduction website using this repository.
 
 To build your own introduction website with this repository, you will only need to change the files in `src/constants/index.ts` and `src/constants/links.ts`.
 
